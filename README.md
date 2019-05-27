@@ -2,4 +2,4 @@
 
 **Autonomous Fighting Robot**
 
-    ![robot](robo.PNG)
+![robot](robo.PNG)

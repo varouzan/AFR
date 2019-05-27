@@ -13,7 +13,7 @@ The robots task was to track down enemy robot or the enemy base, both situated w
 
 * Ultasonic sensors were used to get distance of abstacles around the perimeter of the robot.
 * Photodiodes were used to detect IR source.
-* DC motors and H-bridge circuit was responsible to drive the wheels and ping pong cannon.
+* DC motors and an H-bridge circuit were responsible to drive the wheels and ping pong cannon through a PWM signals provided by mictocontroller.
 
 <p align="center">
   <img src="https://github.com/varouzan/AFR/blob/master/schematic.PNG">

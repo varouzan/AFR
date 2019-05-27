@@ -2,5 +2,5 @@
 
 **Autonomous Fighting Robot**
 
-![robot](robo.png)
+![robot](robo.PNG)
 Format: ![Alt Text](url)

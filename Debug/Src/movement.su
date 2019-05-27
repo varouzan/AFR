@@ -1,0 +1,11 @@
+movement.c:17:6:start	8	static
+movement.c:23:6:left	8	static
+movement.c:34:6:right	8	static
+movement.c:44:6:forward	8	static
+movement.c:50:6:backward	8	static
+movement.c:55:6:stop	8	static
+movement.c:61:6:fire	8	static
+movement.c:67:6:avoid	8	static
+movement.c:101:6:avoid2	16	static
+movement.c:148:6:check_fire	8	static
+movement.c:171:6:check_fire2	8	static

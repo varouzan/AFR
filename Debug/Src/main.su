@@ -1,0 +1,12 @@
+main.c:99:6:read_reg_I2C	40	static
+main.c:104:6:write_reg_I2C	24	static
+main.c:111:6:set_mag	8	static
+main.c:117:6:get_mag	32	static
+main.c:128:6:set_pwm_ch1	40	static
+main.c:141:6:set_pwm_ch2	40	static
+main.c:155:6:send_sonar_pulse	8	static
+main.c:171:6:send_sonar_pulse2	8	static
+main.c:186:6:send_sonar_pulse3	8	static
+main.c:336:6:SystemClock_Config	96	static
+main.c:214:5:main	80	static
+main.c:750:6:_Error_Handler	0	static

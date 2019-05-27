@@ -22,3 +22,5 @@ Firmware was written for STM Nucleo 64 401RE board.
 <p align="center">
   <img src="https://github.com/varouzan/AFR/blob/master/pinout.PNG">
 </p>
+
+[Video](https://drive.google.com/open?id=1qbUIgu0ZMda-dUbzqbQbCqik7pSt9cQw)
